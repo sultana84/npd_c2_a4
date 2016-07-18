@@ -1,18 +1,20 @@
 {
-  data: [
+ " data": [
     { 
-      first_name: steve,
-      last_name: smith,
-      month: 9,
-      year: 1900,
-      color: magenta,
-      move: Butch cassidy and the sundance kid
+      "first_name": "steve",
+      "last_name": "smith",
+      "month": 9,
+      "year": 1900,
+      "color": "magenta",
+      "move": "Butch cassidy and the sundance kid"
      }, 
      {
-      first_name: Carol,
-      last_name: Reilly,
-      month: 8
-      year: 1965
-      color: red
-      movie: Pink
+      "first_name": "Carol",
+      "last_name": "Reilly",
+      "month": 8
+      "year": 1965
+      "color": "red"
+      "movie": "Pink"
       }
+     ]
+}
