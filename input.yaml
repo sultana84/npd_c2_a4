@@ -1,13 +1,11 @@
 data: 
-   -first_name: billy
-    last_name: kid
-    month: 6
-    year: 1986
-    movie: Men in black
-   -first_name: Marcos
-    last_name: Willow
-    month: 8
-    year: 2001
-    movie: December never ends
-
-
+   - first_name: billy
+     last_name: kid
+     month: 6
+     year: 1986
+     movie: Men in black
+   - first_name: Marcos
+     last_name: Willow
+     month: 8
+     year: 2001
+     movie: December never ends
